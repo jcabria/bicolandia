@@ -1,0 +1,29 @@
+.LOG
+
+2:15 PM 29/05/2017
+NAVBAR
+-tried position absolute,left,top and transform: translate property
+-@media screen and max width, position static
+-/*--------------------------
+.top .nav {
+	float: none;
+}
+
+.top .nav li {
+	display: inline-block;
+	float: none;
+	margin: 0 20 px;
+	vertical-align: middle;
+}
+
+.top .nav li a {
+	border-radius: 10px;
+	background: orange;
+	color: #fff;
+}
+
+.top .nav li a:hover {
+	background: peachpuff;
+}
+---------------------------*/
+-
