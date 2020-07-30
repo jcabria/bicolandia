@@ -1,5 +1,5 @@
 
-<h3>Revised version of CP1, Bicolandia Blog</h3>
+# Revised version of CP1, Bicolandia Blog
 
 <h6>CP1 requirement:</h6>
 <ul> 
