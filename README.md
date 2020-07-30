@@ -14,5 +14,4 @@
 </ul>
 
 <br><br>
-<h6>CP1 - made for a coding bootcamp I enrolled with</h6>
 <h6>~~~~~~~1 out of 3 required projects~~~~~~~</h6>
