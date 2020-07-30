@@ -13,5 +13,3 @@
   <li>Bootstrap</li>
 </ul>
 
-<br><br>
-<h6>~~~~~~~1 out of 3 required projects~~~~~~~</h6>
